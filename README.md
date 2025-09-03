@@ -26,9 +26,12 @@ We can add emphasis to text with *asterisks* to create italics or **Bold** text 
 + This is the second item
 + This is the third item
   + This should be a sub-item
+---
  
 1. This is the first item
 2. This is my new 2nd item
 3. This is the 2nd item
 4. This is the 3rd item
    1. This is the first item in a sub list
+
+
