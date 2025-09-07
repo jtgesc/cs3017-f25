@@ -6,6 +6,8 @@ some of my hobbies are playing football, hanging with friends , traveling , and 
 - football
 - traveling
 - hanging with friends
+  
+[picture of aruba, a place i traveled to](kiril-georgiev-Ui99Hiv3Ezg-unsplash.jpg)
 ## my favorite quote  
 > losers quit when they fail, winners fail until they succeed
 
@@ -18,3 +20,5 @@ some of my hobbies are playing football, hanging with friends , traveling , and 
 
 ## Where to find me
 [My GitHub Profile](https://github.com/jtgesc)
+
+[Link to one of my first documents](class3)
